@@ -1,4 +1,4 @@
-## A Personal blog (or something as close)
+## [A Personal blog (or something as close)](https://omartahoun.github.io/personal-thoughts/index.html)
 
 #### Easy on me here this was not meant to be greatest example of good code it was just proof of concept.
 
