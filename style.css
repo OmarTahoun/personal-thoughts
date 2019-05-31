@@ -1,0 +1,51 @@
+body{
+  font-family: ubuntu, sans-serif;
+}
+.view {
+   width: 900px;
+   height: 300px;
+   margin: 0 15px 15px auto;
+   margin-left: auto;
+   margin-right: auto;
+   overflow-y: visible;
+   overflow-x: hidden;
+   word-wrap:break-word;
+   text-align: justify;
+   box-shadow: -15px 10px 30px 0;
+
+}
+
+#boxWrap {
+ margin:0 auto;
+ text-align:center;
+}
+
+.banner {
+  width: 100%;
+  height: 80px;
+  background-color:#015891;
+  margin-bottom: 20px;
+  color:white;
+  font-size: 30px;
+  font-weight: bolder;
+  padding-top: 10px;
+  align-items: center;
+}
+
+.little{
+  font-size: 16px;
+  font-weight: lighter;
+  color: white;
+}
+
+.para{
+  font-size: 16px;
+  line-height: 30px;
+  padding: 5px;
+  padding-left: 15px;
+}
+
+.head{
+  font-size:28px;
+  padding-left: 5px;
+}
